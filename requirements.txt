@@ -1,2 +1,5 @@
 streamlit
 httpx
+lxml
+base64
+beautifulsoup4
