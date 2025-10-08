@@ -1,5 +1,6 @@
-streamlit
-httpx
-lxml
-base64
+streamlit>=1.29
+fastapi
+httpx==0.27.0
+uvicorn
 beautifulsoup4
+lxml
